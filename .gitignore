@@ -1,0 +1,28 @@
+# Django project files
+*.log
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+
+# Static files (CSS, JavaScript, images)
+staticfiles/
+
+# Media files (user-uploaded content)
+media/
+
+# Test files
+test/
+
+# Documentation
+docs/
+
+# IDE / text editor files
+.idea/
+.vscode/
+
+env/
